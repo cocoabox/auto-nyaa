@@ -1,0 +1,48 @@
+{
+    "voice-notify": true,
+    "transmission": {
+        "host": "127.0.0.1",
+        "port": 9091,
+        "username": "*****************",
+        "password": "*****************",
+        "ssl": false
+    },
+    "download_to": "/var/download-finish",
+    "nyaa_search": {
+        "category": "1_4",
+        "n": 300,
+        "min_seeders": 50
+    },
+    "common_filters": [
+        ".mp4"
+    ],
+    "interests": {
+        "yuru-camp": {
+            "label": "ゆるキャン",
+            "search": "yuru camp",
+            "filters": [
+                "season 2",
+                "1080"
+            ]
+        },
+        "kumo-desuga-nanika": {
+            "label": "蜘蛛ですがなにか",
+            "search": "kumo desu",
+            "filters": []
+        },
+        "mushoku-tensei": {
+            "label": "無職転生 異世界行ったら本気だす",
+            "search": "mushoku tensei isekai",
+            "filters": [
+                "1080"
+            ]
+        },
+        "tensla": {
+            "label": "転生したらスライムだった件２期",
+            "search": "tensei slime 2nd",
+            "filters": [
+                "1080"
+            ]
+        }
+    }
+}

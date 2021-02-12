@@ -1,0 +1,16 @@
+{
+  "name": "auto-torrent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-uname": "^3.0.4",
+    "nyaapi": "^2.4.1",
+    "transmission": "^0.4.10"
+  }
+}
