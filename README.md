@@ -6,7 +6,7 @@ searches for nyaa.si periodically for new episodes of anime, then download using
 
 1. create `conf/config.json`
 
-see [EXAMPLE_config.json](EXAMPLE_config.json) for an example
+   see [EXAMPLE_config.json](EXAMPLE_config.json) for an example
 
 2. run `npm i` to install 3rd party packages
 
