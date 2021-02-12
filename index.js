@@ -10,4 +10,4 @@ const AutoTorrent = require('./AutoTorrent');
 const say = require('./Say');
 
 // main 
-new AutoTorrent( new Conf(), new Downloaded, say );
+new AutoTorrent( new Conf, new Downloaded, say );
